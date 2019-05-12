@@ -8,7 +8,6 @@
   - [1.4. Graph Embedding](#14-graph-embedding)
   - [1.5. Attention](#15-attention)
   - [1.6. CTR](#16-ctr)
-  - [Keep Carry and Going On!](#keep-carry-and-going-on)
 
 <!-- /TOC -->
 
@@ -43,4 +42,6 @@
 - DIN
 
 ***
-## Keep Carry and Going On!
+Author:Lym  
+Email:2268435391@qq.com  
+**Keep Carry and Going On!**
