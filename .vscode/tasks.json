@@ -6,7 +6,7 @@
         {
             "label": "python",
             "type": "shell",
-            "command": "/Users/luyiming/anaconda3/bin/python",
+            "command": "/home/luyiming/anaconda3/envs/deep/bin/python3.6",
              "args": [
                 "${file}"
             ],
