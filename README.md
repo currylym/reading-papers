@@ -64,6 +64,10 @@
 - DeepFM
 - DIN
 
+### New Papers
+- Auto Cross
+- 
+
 ***
 Author:Lym  
 Email:2268435391@qq.com  
